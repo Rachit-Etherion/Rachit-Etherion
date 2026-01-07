@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rachit Singh
 
 🚀 Software Engineer | Backend & Full-Stack Developer  
-💻 3+ years of experience building scalable systems  
+💻 4+ years of experience building scalable systems  
 📍 India  
 
 ---
@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🔹 Software Engineer with experience in **backend, databases, and system design**
-- 🔹 Comfortable with **Python, Java, PostgreSQL, Kafka, FastAPI, Next.js**
+- 🔹 Comfortable with **TypeScript, Python, NodeJs, PostgreSQL, Kafka, FastAPI, Next.js**
 - 🔹 Passionate about **clean architecture, performance, and scalability**
 - 🔹 Currently exploring **system design, distributed systems & performance optimization**
 
@@ -18,19 +18,19 @@
 ## 🛠️ Tech Stack
 
 **Languages**
-- Python, Java, JavaScript, SQL
+- Python, TypeScript, JavaScript
 
 **Backend**
-- FastAPI, Flask, Spring Boot
+- FastAPI, Flask, NodeJs, ExpressJs
 
 **Frontend**
 - React, Next.js
 
 **Databases**
-- PostgreSQL, MySQL
+- PostgreSQL, MySQL, MongoDB
 
 **Messaging & Systems**
-- Kafka, REST APIs
+- Kafka, REST APIs, Redis
 
 **Tools**
 - Git, Docker, Linux
@@ -49,7 +49,7 @@
 ## 🌐 Portfolio & Profiles
 
 - 🌍 Portfolio: [https://rachitt.in](https://rachitt.in)
-- 💼 LinkedIn: *(add your LinkedIn link here)*
+- 💼 LinkedIn: [https://www.linkedin.com/in/etherion/](https://www.linkedin.com/in/etherion/)
 - 🧑‍💻 GitHub: You’re already here 😄
 
 ---
